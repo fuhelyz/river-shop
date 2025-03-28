@@ -21,13 +21,8 @@
 ### 安装依赖
 
 ```bash
-# 进入项目目录
-cd river-shop/front-end-for-cus
-
 # 安装依赖
 npm install
-# 或使用yarn
-yarn
 ```
 
 ### 启动开发服务器
@@ -35,24 +30,8 @@ yarn
 ```bash
 # 启动开发服务器
 npm run dev
-# 或使用yarn
-yarn dev
 ```
 
-### 访问网页
-
-- 打开浏览器访问 http://localhost:5173
-- 如需网络访问，启动时使用 `npm run dev -- --host`
-
-### 构建生产版本（可选）
-
-```bash
-# 构建生产版本
-npm run build
-
-# 预览生产版本
-npm run preview
-```
 
 ## 注意事项
 
